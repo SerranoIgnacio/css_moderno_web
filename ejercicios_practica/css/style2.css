@@ -58,7 +58,7 @@
     background-color: #232b3b ;
     align-content: center;
     justify-content:space-around;
-    align-items: center;
+    align-items: flex-end;
     text-align: center;
 }
 .page3 > ul > li> img{
